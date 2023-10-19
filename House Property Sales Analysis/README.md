@@ -1,6 +1,6 @@
 ### Overview
 The real estate industry heavily relies on data analytics tools to better estimate the prices of different properties. 
-Lets work on some questions that deals with analyzing the sales of house properties in a city in Australia.
+Lets work on some questions that deals with analyzing the sales of house properties in a city in Australia. Also prepare a dashboard showing the results.
 
 ### Dataset: 
 The dataset includes the following variables:
