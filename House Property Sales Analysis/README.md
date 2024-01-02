@@ -16,4 +16,4 @@ The dataset includes the following variables:
 
 ### Dashboard preparation
 
-[Click here to see the dashboard] (https://public.tableau.com/app/profile/shruti.balan4655/viz/HouseSalesAnalysis_16976423244570/Dashboard1)
+[Click here to see the dashboard](https://public.tableau.com/app/profile/shruti.balan4655/viz/HouseSalesAnalysis_16976423244570/Dashboard1)
